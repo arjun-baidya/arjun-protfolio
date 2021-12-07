@@ -1,0 +1,30 @@
+.experience-full-div {
+    background-color: #EDF9FE;
+    padding-top: 100px;
+}
+
+.experience-name {
+    padding-top: 80px;
+}
+
+.experience-title {
+    text-align: left;
+}
+
+.experience-company {
+    text-align: left;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.experience-company a {
+    text-decoration: none;
+}
+
+.experience-description {
+    text-align: left;
+}
+
+.starIcon{
+    margin-right: 10px;
+}

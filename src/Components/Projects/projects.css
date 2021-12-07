@@ -1,0 +1,23 @@
+.projects-full-div {
+    background-color: #EDF9FE;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+.project-heading {
+    font-size: 30px;
+    font-weight: bold;
+    color: #0B0B61;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.project-description {
+    color: #7F8DAA;
+    font-size: 23px;
+}
+
+.card-section {
+    background-color: #A6E1FA !important;
+    box-shadow: 5px 2px 5px;
+}

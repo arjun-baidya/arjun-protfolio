@@ -1,0 +1,33 @@
+.banner-full-div {
+    background-color: #EDF9FE;
+    padding-bottom: 50px;
+}
+
+.banner-row {
+    padding-top: 80px;
+    width: 100%;
+    background-color: #EDF9FE;
+}
+
+.name-class {
+    padding-top: 50px;
+    font-size: 38px;
+}
+
+.about-class {
+    padding-top: 10px;
+    font-size: 32px;
+}
+
+.social-icons{
+    padding-top: 30px;
+}
+
+.icon-class{
+    padding-left: 10px;
+    font-size: 50px;
+}
+.icon-class:hover{
+    color: rgb(177, 92, 59);
+    cursor: pointer;
+}
