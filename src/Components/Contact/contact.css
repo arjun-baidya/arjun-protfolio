@@ -1,0 +1,92 @@
+.contactme-full-div {
+    background-color: #EDF9FE;
+    padding-bottom: 50px;
+}
+
+.mycontact-row {
+    padding-bottom: 50px;
+}
+
+.my-image-col {
+    padding-top: 100px;
+}
+
+.my-image {
+    border-radius: 50%;
+}
+
+.my-contact-col {
+    padding-top: 150px;
+}
+
+.my-contact-col h1 {
+    color: #021C55;
+}
+
+.my-contact-col p {
+    font-size: 20px;
+    text-align: center;
+    color: #7F8DAA;
+}
+
+.button-div {
+    padding-top: 40px;
+}
+
+.resume-btn a {
+    text-decoration: none;
+    color: white;
+}
+
+.button-div button {
+    background-color: #021C55;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.button-div button:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid #021C55;
+}
+
+/* Blog section */
+.blog-row {
+    padding-top: 50px;
+}
+
+.blog-left-col {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.blog-left-col h1 {
+    color: #021C55;
+}
+
+.blog-left-col p {
+    font-size: 20px;
+    text-align: center;
+    color: #7F8DAA;
+}
+
+/* Address section */
+.address-row {
+    padding-top: 100px;
+}
+
+.address-right-col{
+    padding-top: 40px;
+}
+.address-right-col h1 {
+    color: #021C55;
+}
+
+.address-right-col p {
+    font-size: 20px;
+    text-align: center;
+    color: #7F8DAA;
+}

@@ -1,0 +1,66 @@
+.education-full-div {
+    background-color: #EDF9FE;
+}
+
+.edu-image {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.education {
+    padding-top: 25%;
+    color: #021C55;
+}
+
+.education-title {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: #021C55;
+}
+
+.degree-title {
+    padding-top: 100px;
+    color: #021C55;
+    padding-bottom: 50px;
+}
+
+.versity-image-col {
+    padding-top: 50px;
+}
+
+.versity-image {
+    box-shadow: 2px 2px 5px;
+    border-radius: 50%;
+}
+
+.edu-card {
+    height: 300px;
+    box-shadow: 2px 2px 5px;
+}
+
+/* .versity-information-col{
+    box-shadow: 2px 2px 5px;
+} */
+.versity-name {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    color: #021C55;
+    background-color: #82B6D6;
+    height: 120px;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+.education-year {
+    text-align: right;
+}
+
+/* certification section */
+.certification-title {
+    padding-top: 40px;
+}
+.certification {
+    padding-top: 50px;
+}
