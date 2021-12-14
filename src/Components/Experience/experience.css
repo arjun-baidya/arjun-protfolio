@@ -25,6 +25,22 @@
     text-align: left;
 }
 
-.starIcon{
+.starIcon {
     margin-right: 10px;
+}
+
+/* extra-experience-description row */
+.extra-experience-description p {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.extra-experi-title {
+    text-align: left;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.extra-expei-des{
+    padding-left: 23px;
 }

@@ -62,6 +62,19 @@ function Experience() {
                     Develop Odoo module and testing
                     </p>
                 </Row>
+                <Row className='mt-5'>
+                    <h1 className="extra-experience-title">Remote Job and Other Professional Project Work</h1>
+                    <div className='extra-experience-description'>
+                        <p>
+                        <FontAwesomeIcon className="starIcon" icon={faStarOfDavid} />
+                            <span className='extra-experi-title'>Customize API for UNICEF U-report Project.</span><br/>
+                            <p className='extra-expei-des'>Dynamic API for UNICEF U-report Project.</p>
+                            <p className='extra-expei-des'>Return data dynamically from UNICEF API.</p>
+                            <p className='extra-expei-des'> Specific field data return from API.</p>
+                            <p className='extra-expei-des'>Specific field data avoid from API.</p>
+                        </p>
+                    </div>
+                </Row>
             </Container>
         </div>
     )
