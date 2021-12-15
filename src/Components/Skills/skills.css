@@ -10,6 +10,11 @@
     padding-top: 50px;
 }
 
+.skills-title {
+    font-size: 25px;
+    color: #212529;
+}
+
 .skills-social-icon-div {
     padding-top: 20px;
 }
@@ -49,6 +54,20 @@
     cursor: pointer;
 }
 
+.skills-icon-github {
+    font-size: 80px;
+    padding-left: 20px;
+    color: #CB3837;
+    cursor: pointer;
+}
+
+.skills-icon-git {
+    font-size: 80px;
+    padding-left: 20px;
+    color: #CB3837;
+    cursor: pointer;
+}
+
 .skills-icon-html {
     font-size: 80px;
     padding-left: 20px;
@@ -78,8 +97,9 @@
 .skills-arrow-text {
     font-size: 20px;
     color: #3B9E41;
-    text-align:justify;
+    text-align: justify;
 }
+
 .skills-arrow-icon {
     color: #61DAFB;
     margin-right: 10px;

@@ -11,7 +11,10 @@ function Banner() {
                 <Row className="banner-row">
                 <Col sm={12} md={6}>
                     <p className="name-class">Arjun Baidya</p>    
-                    <p className="about-class"> A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact. </p>
+                    <p className="about-class">
+                    I am a full-stack developer with industry experience. I have a passion for building web applications and I am always looking for new challenges to learn and grow.<br/>
+                    {/* I developed many small to large projects. <br/> */}
+                    A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.</p>
                     <div className="social-icons">
                         <a href="https://www.linkedin.com/in/arjun-baidya13/" target="blank">
                             <FontAwesomeIcon className="icon-class" icon={faLinkedin} />

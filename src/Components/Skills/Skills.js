@@ -2,7 +2,7 @@ import React from 'react'
 import { Col, Container, Image, Row } from 'react-bootstrap'
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import { faAngleRight } from '@fortawesome/free-solid-svg-icons'
-import { faReact,faPython,faNodeJs,faJs,faNpm,faHtml5,faCss3,faBootstrap,
+import { faReact,faPython,faNodeJs,faJs,faNpm,faHtml5,faCss3,faBootstrap,faGithubSquare,faGitSquare
  } from '@fortawesome/free-brands-svg-icons'
 import './skills.css'
 
@@ -24,6 +24,8 @@ function Skills() {
                             <FontAwesomeIcon icon={faNodeJs} className="skills-icon-node" title="Node JS" />
                             <FontAwesomeIcon icon={faJs} className="skills-icon-js" title="JavaScript" />
                             <FontAwesomeIcon icon={faNpm} className="skills-icon-npm" title="NPM" />
+                            <FontAwesomeIcon icon={faGithubSquare} className="skills-icon-github" title="GitHub" />
+                            <FontAwesomeIcon icon={faGitSquare} className="skills-icon-git" title="Git" />
                             <FontAwesomeIcon icon={faHtml5} className="skills-icon-html" title="HTML" />
                             <FontAwesomeIcon icon={faCss3} className="skills-icon-css" title="CSS" />
                             <FontAwesomeIcon icon={faBootstrap} className="skills-icon-bootstrap" title="Bootstrap" />
@@ -31,21 +33,21 @@ function Skills() {
                         <div className="skills-arrow-div">
                             <p className="skills-arrow-text">
                                 <FontAwesomeIcon icon={faAngleRight} className="skills-arrow-icon" />
-                                Building resposive website front end using React-Redux
+                                Building resposive website front end using React-Redux and Context-API.
                             </p>
                             <p className="skills-arrow-text">
                                 <FontAwesomeIcon icon={faAngleRight} className="skills-arrow-icon" />
-                                Developing mobile applications using Flutter, React Native and solo android apps using Kotlin.
+                                Developing backend using Django, Django-Rest-API, NodeJS, ExpressJS,Sql,PostGreSql, MongoDB and Mongoose.
                             </p>
                             <p className="skills-arrow-text">
                                 <FontAwesomeIcon icon={faAngleRight} className="skills-arrow-icon" />
-                                Creating application backend in Node, Express & Flask.
+                                Developing custom ERP system using Odoo.
                             </p>
                         </div>
                     </Col>
                 </Row>
                  
-                <Row>
+                {/* <Row>
                     <Col sm={12} md={6} className="skill-left-col">
                         <Image src="./cloud_infrastructure.svg" className="skills-image" fluid />
                     </Col>
@@ -76,7 +78,7 @@ function Skills() {
                             </p>
                         </div>
                     </Col>
-                </Row>
+                </Row> */}
             </Container>
         </div>
     )

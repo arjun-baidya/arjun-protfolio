@@ -8,7 +8,7 @@ function Footer() {
             <Container>
                 <Row>
                 <div className="footer">
-                    <p> &copy; Copyright {new Date().getFullYear() }, All Rights Reserved. Developed by Arjun </p>
+                    <p> &copy; Copyright {new Date().getFullYear() }, All Rights Reserved. Developed by Arjun Baidya </p>
                 </div>
             </Row>
             </Container>

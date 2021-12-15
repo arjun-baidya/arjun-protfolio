@@ -20,7 +20,7 @@
 }
 
 .degree-title {
-    padding-top: 100px;
+    padding-top: 50px;
     color: #021C55;
     padding-bottom: 50px;
 }
@@ -39,28 +39,47 @@
     box-shadow: 2px 2px 5px;
 }
 
-/* .versity-information-col{
-    box-shadow: 2px 2px 5px;
-} */
 .versity-name {
     font-size: 20px;
     font-weight: bold;
     text-align: left;
     color: #021C55;
-    background-color: #82B6D6;
-    height: 120px;
-    padding-top: 15px;
+    padding-top: 60px;
     padding-left: 10px;
 }
 
-.education-year {
-    text-align: right;
+.versity-button {
+    float: right;
+    background-color: #EDF9FE !important;
+    border: none !important;
+    color: #021C55 !important;
+}
+
+.versity-button:hover {
+    background-color: #021C55 !important;
+    color: #EDF9FE !important;
 }
 
 /* certification section */
 .certification-title {
     padding-top: 40px;
 }
+
 .certification {
     padding-top: 50px;
+}
+
+.training-card {
+    transform: scale(1.03);
+    min-height: 300px !important;
+    box-shadow: 2px 2px 5px;
+}
+
+.training-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 13px 40px -5px hsla(240, 30.1%, 28%, 0.12), 0 8px 32px -8px hsla(0, 0%, 0%, 0.14), 0 -6px 32px -6px hsla(0, 0%, 0%, 0.02);
+}
+
+.training-title{
+    padding-top: 10px;
 }

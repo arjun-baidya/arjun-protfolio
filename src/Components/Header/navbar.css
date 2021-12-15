@@ -7,3 +7,10 @@
 .nav-link {
     color: #021C55 !important;
 }
+
+.navlink{
+    color: #021C55 !important;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-left: 20px;
+}

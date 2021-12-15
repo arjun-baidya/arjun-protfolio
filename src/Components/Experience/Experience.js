@@ -16,6 +16,7 @@ function Experience() {
                         <h1 className="experience-name">Experience</h1>
                         <p>
                             I have been working as a software engineer for the past two years. I have worked on a variety of projects, ranging from small to large scale.
+                            I have worked on Python, Django-Rest-Framework, React , Node, Odoo ERP.
                         </p>
                     </Col>
                 </Row>
@@ -23,7 +24,7 @@ function Experience() {
                 <Row className="mt-5">
                     <h1 className="experience-title">Software Engineer</h1>
                     <p className="experience-company">
-                        <a href="https://www.linkedin.com/company/cognizant-technologies-limited/">Yuko Leather Goods Limited</a>
+                        <a href="https://www.linkedin.com/company/yukoleather/mycompany/">Yuko Leather Goods Limited</a>
                     </p>
                     <p className="experience-description">
                     <FontAwesomeIcon className="starIcon" icon={faStarOfDavid} />
@@ -31,7 +32,7 @@ function Experience() {
                     </p>
                     <p className="experience-description">
                     <FontAwesomeIcon className="starIcon" icon={faStarOfDavid} />
-                    Develop website in Python and Django
+                    Develop website in Python and Django-Rest-Framework.
                     </p>
                     <p className="experience-description">
                     <FontAwesomeIcon className="starIcon" icon={faStarOfDavid} />
@@ -39,11 +40,7 @@ function Experience() {
                     </p>
                     <p className="experience-description">
                     <FontAwesomeIcon className="starIcon" icon={faStarOfDavid} />
-                     Front-end design in React JS
-                    </p>
-                    <p className="experience-description">
-                    <FontAwesomeIcon className="starIcon" icon={faStarOfDavid} />
-                    Use Micro-services
+                     Front-end design in React JS and Redux.
                     </p>
                     <p className="experience-description">
                     <FontAwesomeIcon className="starIcon" icon={faStarOfDavid} />
@@ -51,15 +48,15 @@ function Experience() {
                     </p>
                     <p className="experience-description">
                     <FontAwesomeIcon className="starIcon" icon={faStarOfDavid} />
-                    Custom Odoo development for project
+                    Custom Odoo development for project development and maintenance.
                     </p>
                     <p className="experience-description">
                     <FontAwesomeIcon className="starIcon" icon={faStarOfDavid} />
-                    Develop business logic for business case project
+                    Develop business logic for business case project development.
                     </p>
                     <p className="experience-description">
                     <FontAwesomeIcon className="starIcon" icon={faStarOfDavid} />
-                    Develop Odoo module and testing
+                    Develop Odoo module and testing for business case project development.
                     </p>
                 </Row>
                 <Row className='mt-5'>

@@ -9,7 +9,7 @@
     font-weight: bold;
     color: #0B0B61;
     text-align: center;
-    padding-top: 80px;
+    padding-top: 30px;
 }
 
 .project-description {
@@ -20,8 +20,16 @@
 .card-section {
     background-color: #A6E1FA !important;
     box-shadow: 5px 2px 5px;
+    cursor: pointer;
+    min-height: 450px;
 }
 
-.code-btn{
+.card-section:hover {
+    transform: scale(1.03);
+    height: 550px;
+    box-shadow: 0 13px 40px -5px hsla(240, 30.1%, 28%, 0.12), 0 8px 32px -8px hsla(0, 0%, 0%, 0.14), 0 -6px 32px -6px hsla(0, 0%, 0%, 0.02);
+}
+
+.code-btn {
     margin-left: 10px;
 }
