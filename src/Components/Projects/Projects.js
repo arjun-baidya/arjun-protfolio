@@ -35,6 +35,36 @@ function Projects() {
                     </Col>
                     <Col>
                     <Card className="card-section">
+                        <Card.Img variant="top" src="./yoga-pro-img.png" />
+                        <Card.Body>
+                        <Card.Title>Yoga Project</Card.Title>
+                        <Card.Text>
+                            This is a React based front-end project.
+                            Made by pure React JS.
+                        </Card.Text>
+                        <Button  href='https://traditional-yoga.netlify.app/' target='blank' variant="primary">Live</Button>
+                        <Button  className='code-btn' href='https://github.com/arjun-baidya/yoga' target='blank' variant="primary">Code</Button>
+                        </Card.Body>
+                    </Card>
+                    </Col>
+
+                    <Col>
+                    <Card className="card-section">
+                        <Card.Img variant="top" src="./blog-localstorage.png" />
+                        <Card.Body>
+                        <Card.Title>Blog Using React Redux</Card.Title>
+                        <Card.Text>
+                            This is a blog project. It is made using React JS, Redux,Local Storage.
+                        </Card.Text>
+                        <Button  href='' target='blank' variant="primary">Live</Button>
+                        <Button  className='code-btn' href='https://github.com/arjun-baidya/blog-without-db' target='blank' variant="primary">Code</Button>
+                        </Card.Body>
+                    </Card>
+                    </Col>
+
+
+                    <Col>
+                    <Card className="card-section">
                         <Card.Img variant="top" src="./bike-pro-img.png" fluid />
                         <Card.Body>
                         <Card.Title>Bike Project</Card.Title>
@@ -61,20 +91,7 @@ function Projects() {
                         </Card.Body>
                     </Card>
                     </Col>
-                    <Col>
-                    <Card className="card-section">
-                        <Card.Img variant="top" src="./yoga-pro-img.png" />
-                        <Card.Body>
-                        <Card.Title>Yoga Project</Card.Title>
-                        <Card.Text>
-                            This is a React based front-end project.
-                            Made by pure React JS.
-                        </Card.Text>
-                        <Button  href='https://traditional-yoga.netlify.app/' target='blank' variant="primary">Live</Button>
-                        <Button  className='code-btn' href='https://github.com/arjun-baidya/yoga' target='blank' variant="primary">Code</Button>
-                        </Card.Body>
-                    </Card>
-                    </Col>
+                    
                     <Col>
                     <Card className="card-section">
                         <Card.Img variant="top" src="./dom-pro-img.png" />
