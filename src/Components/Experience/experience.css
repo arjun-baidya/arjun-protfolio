@@ -21,6 +21,12 @@
     text-decoration: none;
 }
 
+.experience-date {
+    padding-left: 15px;
+    font-weight: 300;
+    font-size: 14px;
+}
+
 .experience-description {
     text-align: left;
 }
@@ -41,6 +47,12 @@
     font-weight: bold;
 }
 
-.extra-expei-des{
+.extra-experi-date {
+    padding-left: 20px;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.extra-expei-des {
     padding-left: 23px;
 }

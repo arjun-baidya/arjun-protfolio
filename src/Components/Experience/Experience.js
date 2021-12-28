@@ -24,11 +24,8 @@ function Experience() {
                 <Row className="mt-5">
                     <h1 className="experience-title">Software Engineer</h1>
                     <p className="experience-company">
-                        <a href="https://www.linkedin.com/company/yukoleather/mycompany/">Yuko Leather Goods Limited</a>
-                    </p>
-                    <p className="experience-description">
-                    <FontAwesomeIcon className="starIcon" icon={faStarOfDavid} />
-                    I have been working as a software engineer for the past two years. I have worked on a variety of projects, ranging from small to large scale.
+                        <a href="https://www.linkedin.com/company/yukoleather/mycompany/">Yuko Leather Goods Limited.</a>
+                        <span className="experience-date">(Sep,2020 - Ongoing)</span>
                     </p>
                     <p className="experience-description">
                     <FontAwesomeIcon className="starIcon" icon={faStarOfDavid} />
@@ -44,7 +41,7 @@ function Experience() {
                     </p>
                     <p className="experience-description">
                     <FontAwesomeIcon className="starIcon" icon={faStarOfDavid} />
-                    Resource planning for project development
+                    Resource planning for project development.
                     </p>
                     <p className="experience-description">
                     <FontAwesomeIcon className="starIcon" icon={faStarOfDavid} />
@@ -64,7 +61,9 @@ function Experience() {
                     <div className='extra-experience-description'>
                         <p>
                         <FontAwesomeIcon className="starIcon" icon={faStarOfDavid} />
-                            <span className='extra-experi-title'>Customize API for UNICEF U-report Project.</span><br/>
+                            <span className='extra-experi-title'>Customize API for UNICEF U-report Project.
+                            <span className='extra-experi-date'>(October 2020 - Nobember 2020)</span>
+                            </span><br/>
                             <p className='extra-expei-des'>Dynamic API for UNICEF U-report Project.</p>
                             <p className='extra-expei-des'>Return data dynamically from UNICEF API.</p>
                             <p className='extra-expei-des'> Specific field data return from API.</p>

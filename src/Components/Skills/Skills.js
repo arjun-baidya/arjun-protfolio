@@ -33,7 +33,7 @@ function Skills() {
                         <div className="skills-arrow-div">
                             <p className="skills-arrow-text">
                                 <FontAwesomeIcon icon={faAngleRight} className="skills-arrow-icon" />
-                                Building resposive website front end using React-Redux and Context-API.
+                                Building resposive website front-end using React-Redux and Context-API.
                             </p>
                             <p className="skills-arrow-text">
                                 <FontAwesomeIcon icon={faAngleRight} className="skills-arrow-icon" />

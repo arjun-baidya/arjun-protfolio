@@ -12,7 +12,7 @@ function Banner() {
                 <Col sm={12} md={6}>
                     <p className="name-class">Arjun Baidya</p>    
                     <p className="about-class">
-                    I am a full-stack developer with industry experience. I have a passion for building web applications and I am always looking for new challenges to learn and grow.<br/>
+                    I am a full-stack developer with industry experience. I have a passion to build new concepts and implement them through software. I am always looking for new challenges to learn and grow.<br/>
                     {/* I developed many small to large projects. <br/> */}
                     A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.</p>
                     <div className="social-icons">

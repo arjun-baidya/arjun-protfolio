@@ -24,6 +24,7 @@ function Projects() {
                         <Card.Img variant="top" src="./ecom.gif" />
                         <Card.Body>
                         <Card.Title>Full e-Commerce Project</Card.Title>
+                        <span className='date-text'>June,2021 - December,2021</span>
                         <Card.Text>
                             This is full e-commerce project using React JS, Redux, Django Rest Framework.
                             And also made Admin Panel using Django Rest Framework and React JS.
@@ -38,6 +39,7 @@ function Projects() {
                         <Card.Img variant="top" src="./yoga-pro-img.png" />
                         <Card.Body>
                         <Card.Title>Yoga Project</Card.Title>
+                        <span className='date-text'>November,2021</span>
                         <Card.Text>
                             This is a React based front-end project.
                             Made by pure React JS.
@@ -53,41 +55,12 @@ function Projects() {
                         <Card.Img variant="top" src="./blog-localstorage.png" />
                         <Card.Body>
                         <Card.Title>Blog Using React Redux</Card.Title>
+                        <span className='date-text'>December,2021</span>
                         <Card.Text>
                             This is a blog project. It is made using React JS, Redux,Local Storage.
                         </Card.Text>
                         <Button  href='' target='blank' variant="primary">Live</Button>
                         <Button  className='code-btn' href='https://github.com/arjun-baidya/blog-without-db' target='blank' variant="primary">Code</Button>
-                        </Card.Body>
-                    </Card>
-                    </Col>
-
-
-                    <Col>
-                    <Card className="card-section">
-                        <Card.Img variant="top" src="./bike-pro-img.png" fluid />
-                        <Card.Body>
-                        <Card.Title>Bike Project</Card.Title>
-                        <Card.Text>
-                            This a bike project which is a front-end project which is deployed on github.
-                            Made by Html and CSS.
-                        </Card.Text>
-                        <Button  href='https://arjun-baidya.github.io/honda-collection/' target='blank' variant="primary">Live</Button>
-                        <Button  className='code-btn' href='https://github.com/arjun-baidya/honda-collection' target='blank' variant="primary">Code</Button>
-                        </Card.Body>
-                    </Card>
-                    </Col>
-                    <Col>
-                    <Card className="card-section">
-                        <Card.Img variant="top" src="./panda-ecom-pro-img.png" fluid/>
-                        <Card.Body>
-                        <Card.Title>Panda E-commerce</Card.Title>
-                        <Card.Text>
-                            This is a e-commerce project which is a front-end project.
-                            Made by Html and CSS.
-                        </Card.Text>
-                        <Button  href='https://arjun-baidya.github.io/panda-ecommerce/' target='blank' variant="primary">Live</Button>
-                        <Button  className='code-btn' href='https://github.com/arjun-baidya/panda-ecommerce' target='blank' variant="primary">Code</Button>
                         </Card.Body>
                     </Card>
                     </Col>
@@ -97,6 +70,7 @@ function Projects() {
                         <Card.Img variant="top" src="./dom-pro-img.png" />
                         <Card.Body>
                         <Card.Title>DOM Project</Card.Title>
+                        <span className='date-text'>Aug,2021</span>
                         <Card.Text>
                             This is a JavaScript DOM related Project.
                             Developed by using JavaScript, React.
@@ -111,6 +85,7 @@ function Projects() {
                         <Card.Img variant="top" src="./poet-pro-img.png" />
                         <Card.Body>
                         <Card.Title>Poet Club</Card.Title>
+                        <span className='date-text'>Aug,2021</span>
                         <Card.Text>
                             This is a Javascript DOM related project.Developed by using JavaScript, React.
                         </Card.Text>
@@ -124,6 +99,7 @@ function Projects() {
                         <Card.Img variant="top" src="./search-book-pro-img.png" />
                         <Card.Body>
                         <Card.Title>Book API</Card.Title>
+                        <span className='date-text'>july,2021</span>
                         <Card.Text>
                             This is a Javascript DOM related project.Developed by using JavaScript and HTML and CSS.
                             Get Data from custom API and use DOM.
@@ -133,39 +109,13 @@ function Projects() {
                         </Card.Body>
                     </Card>
                     </Col>
-                    <Col>
-                    <Card className="card-section">
-                        <Card.Img variant="top" src="./football.gif" />
-                        <Card.Body>
-                        <Card.Title>Football Project</Card.Title>
-                        <Card.Text>
-                            This is a plain HTML and CSS project.
-                            Just for front-end design.
-                        </Card.Text>
-                        <Button  href='https://arjun-baidya.github.io/responsive-football/' target='blank' variant="primary">Live</Button>
-                        <Button  className='code-btn' href='https://github.com/arjun-baidya/responsive-football' target='blank' variant="primary">Code</Button>
-                        </Card.Body>
-                    </Card>
-                    </Col>
-                    <Col>
-                    <Card className="card-section">
-                        <Card.Img variant="top" src="./food.gif" />
-                        <Card.Body>
-                        <Card.Title>Food Network Project</Card.Title>
-                        <Card.Text>
-                            This is a plain HTML and CSS project.
-                            Just for front-end design.
-                        </Card.Text>
-                        <Button  href='https://arjun-baidya.github.io/food-network/' target='blank' variant="primary">Live</Button>
-                        <Button  className='code-btn' href='https://github.com/arjun-baidya/food-network' target='blank' variant="primary">Code</Button>
-                        </Card.Body>
-                    </Card>
-                    </Col>
+
                     <Col>
                     <Card className="card-section">
                         <Card.Img variant="top" src="./sms-mail-qr.gif" />
                         <Card.Body>
                         <Card.Title>SMS-MAIL-QR sending Project</Card.Title>
+                        <span className='date-text'>March,2021</span>
                         <Card.Text>
                             This is a Python based project.
                             You can send mail and sms and generate QR code.
@@ -180,6 +130,7 @@ function Projects() {
                         <Card.Img variant="top" src="./blog-django.gif" />
                         <Card.Body>
                         <Card.Title>Blog Website</Card.Title>
+                        <span className='date-text'>March,2021</span>
                         <Card.Text>
                             This is a Python and Django based project.
                             You can create blog and comment on it.It have login and register functionality.
@@ -195,6 +146,7 @@ function Projects() {
                         <Card.Img variant="top" src="./image-scrap.gif" />
                         <Card.Body>
                         <Card.Title>Image Scrapping </Card.Title>
+                        <span className='date-text'>Feb,2021</span>
                         <Card.Text>
                             This is a image scrapping project.
                             You can download any github user profile image and saved it in your local machine.
@@ -210,6 +162,7 @@ function Projects() {
                         <Card.Img variant="top" src="./dram-kit-pro-img.png" />
                         <Card.Body>
                         <Card.Title>JavaScript Dram-kit </Card.Title>
+                        <span className='date-text'>January,2021</span>
                         <Card.Text>
                             This is a javascript project.Used audio file to listen and play.
                         </Card.Text>
